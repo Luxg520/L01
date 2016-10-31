@@ -3,7 +3,7 @@ using System.Reflection;
 using System.Collections;
 using System.Collections.Generic;
 
-public class CsvParser
+public class CsvParser : CsvDB
 {
     #region 常用变量
 
@@ -16,20 +16,6 @@ public class CsvParser
 
     // 正在处理的表名
     public static string parsingCsvName;  
-
-    // csv表文件名
-    public static string[] arrCsvName = 
-    {
-        "def.csv",
-    };
-
-    // txt文件名
-    public static string[] arrTxtName =
-    {
-        "version.txt",
-    };
-
-    public static Dictionary<int, object> Items { get; private set; }    
 
     #endregion
 
