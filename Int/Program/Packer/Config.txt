@@ -1,5 +1,0 @@
-Version=1.300.02
-UnityPath=E:\Program Files (x86)\Unity\Editor\Unity.exe
-JarSigner=D:\Program Files (x86)\Java\jdk1.7.0_45\bin\jarsigner.exe
-Java1_8=D:\Program Files (x86)\Java\jre1.8.0_91\bin\java.exe
-Java1_7=D:\Program Files (x86)\Java\jdk1.7.0_45\bin\java.exe
